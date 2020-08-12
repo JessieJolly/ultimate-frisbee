@@ -1,0 +1,85 @@
+h1{
+  text-align: center;
+  font-size: 4.5em;
+  font-variant: small-caps;
+  margin-top: 10px;
+  font-family: "Courier New";
+  color: #ffffff;
+  margin-bottom: 8px;
+}
+section{
+  display:inline-block;
+  width: 100%;
+  height: 250px;
+  float:left;
+  margin-left: 0.5%;
+  margin-bottom: 50px;
+}
+.Half{
+  width: 49%;
+}
+main{
+  font-size: 25px;
+}
+body{
+  background-color: #f3e5d7ab;
+}
+header{
+  background-color: #a96c37;
+  margin-bottom: 1px;
+  border: solid;
+  background-image: linear-gradient(45deg, #111111,#13506d, #2495e6);
+}
+nav{
+  color:#efeae6;
+  text-align: center;
+  font-size: 1.2em;
+  color: black;
+  padding-bottom: 6px;
+  height: 1.2em;
+}
+nav a{
+  background-color:  #c3f7f6b3;
+  padding: 4px;
+  border: solid;
+  border-radius: 5px;
+  text-decoration: none;
+}
+nav a:hover{
+  font-weight: bolder;
+  background-color: #c3f7f6;
+}
+a:focus{
+  border: solid 3px;
+  font-weight: bolder;
+}
+h2{
+  background-color: #b29a73de;
+  font-family: "Courier New";
+  margin-top: 1px;
+  border-radius: 5px;
+  overflow-x: visible;
+}
+footer{
+  font-style: italic;
+  background-color:  #efd2b4;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-bottom: 1px;
+  clear:both;
+  background-image: linear-gradient(45deg, #111111,#13506d, #2495e6);
+  color: #ffffff;
+}
+a[href="http://www.intro-webdesign.com."]{
+  color: #ffffff;
+}
+
+img{
+  width: 75px;
+}
+span{
+  background-color: #eb9fb4;
+}
+p{
+  font-style: italic;
+}

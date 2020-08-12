@@ -1,0 +1,18 @@
+body{
+  display:grid;
+}
+span{
+  background-color: red;
+  height:50px;
+  width:100px;
+}
+div{
+  background-color: green;
+  height: 100px;
+  width:300px;
+}
+p{
+  background-color: yellow;
+  height:200px;
+  width:300px;
+}
